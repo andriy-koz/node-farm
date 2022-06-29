@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/andriy-koz/node-farm#readme",
   "dependencies": {
-    "slugify": "^1.6.5"
+    "slugify": "~1.0.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.18"
